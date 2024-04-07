@@ -8,3 +8,6 @@ https://bit.ly/TizTestTV
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo=".jpg" tvg-name="NickToons | (M3UƬV)"  group-title="Animation", NickToons | (Ƭ⫯ⲍƬ⋎)
 http://143.244.60.30/NICKTOONS/index.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo=".jpg" tvg-name="Cartoon Network | (M3UƬV)"  group-title="Animation", Cartoon Network | (Ƭ⫯ⲍƬ⋎)
+https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
